@@ -1,0 +1,14 @@
+Los nombres completos son:
+
+Nombre: joaquin
+Apellido: mauriño
+----------
+Nombre: lucas
+Apellido: carrasco
+----------
+Nombre: nahue
+Apellido: fontana
+----------
+Nombre: mati
+Apellido: lorqui
+----------
